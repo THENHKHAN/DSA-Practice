@@ -25,6 +25,6 @@
 
 - 12- [Check array is sorted or not](/LeetCode/Easy/1_Array/12_leftRotateArrByOnePlace.py): we'll write CruXX of this probs LATER
 
-- 13- [rotate-array-by-k-elements](/LeetCode/Easy/1_Array/13_leftRotateArrByDPlaces.py)
+- 13- [Rotate-array-by-k-elements](/LeetCode/Easy/1_Array/13_leftRotateArrByDPlaces.py)
 
 - 14- [Find Pivot Index](/LeetCode/Easy/1_Array//14_findPivotIndex.py) : Find Middle Index : left sum and right summust be equal for Pivot index
