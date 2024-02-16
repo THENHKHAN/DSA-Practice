@@ -28,3 +28,7 @@
 - 13- [Rotate-array-by-k-elements](/LeetCode/Easy/1_Array/13_leftRotateArrByDPlaces.py)
 
 - 14- [Find Pivot Index](/LeetCode/Easy/1_Array//14_findPivotIndex.py) : Find Middle Index : left sum and right summust be equal for Pivot index
+
+
+
+## Here are Leetcode easy STRINGs problem Solution
