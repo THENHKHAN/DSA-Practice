@@ -1,5 +1,5 @@
 
-## Here are Leetcode easy problem Solution
+## Here are Leetcode easy ARRAY problem Solution
 
 - 1- [2 Sum problem LeetCode](/LeetCode/Easy/1_Array/1_two_sum.py) : We'll write CruXX of Each probs LATER 
 
