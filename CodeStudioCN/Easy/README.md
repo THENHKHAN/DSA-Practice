@@ -1,1 +1,2 @@
 -  [Largest Element from array ](/CodeStudioCN/Easy/1_Array/1_LargestEleArr.py)
+-  [Second large And Small Element](/CodeStudioCN/Easy/1_Array/2_2nd_largAndSmallEle.py)
